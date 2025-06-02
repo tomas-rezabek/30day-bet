@@ -1,0 +1,2 @@
+Played with MariaDB databases and PDO methods
+Learning Time Block was around 14 - 15h
