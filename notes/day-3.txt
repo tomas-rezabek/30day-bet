@@ -1,0 +1,2 @@
+Playing with and learning JavaScript Functions, Objects, Arrays and AJAX
+Learning Time Block was around 14:30 - 15h
