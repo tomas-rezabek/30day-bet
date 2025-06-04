@@ -1,0 +1,1 @@
+Learning methods, objects etc. in JavasScript, fixed server whois checker, created database and interface for logs
