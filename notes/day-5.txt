@@ -1,0 +1,2 @@
+Learning and playing with Redis queue system, jobs and learning about PHP Global variables, , , , etc.
+Learning time block was around 13-14h
