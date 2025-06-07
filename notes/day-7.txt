@@ -1,0 +1,2 @@
+Env and Conf flexibility in Laracast
+Learning time block 22 - 22:30h
