@@ -1,3 +1,4 @@
 Database Tables, Indexes - Foreign Key
 Learning Time Block 22:15 - 22:30
 Need to allocate more time in the upcoming days, quit ytb and twitch
+Changed global user and email
