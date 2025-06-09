@@ -1,3 +1,6 @@
 Learned SQL injection via laracast
 Learning Time Block was around 14-15h
 Also procrastinated on YTB and Twitch, broke my 60+ day streak, dissapointed.
+Database Tables, Indexes - Foreign Key
+Learning Time Block 10:15 - 10:30
+Need to allocate more time in the upcoming days
