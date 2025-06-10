@@ -1,0 +1,5 @@
+Fetching notes from the database into the notes page
+Practicing SQL injection and functions
+Authorization and magic numbers
+Fixed issue where Database class wasnt loading because we were loading router and then the Database class, but we need to reverse that, Classes first, router at the end
+Learning Time Block 20:30 - 21:25
