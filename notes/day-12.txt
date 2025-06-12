@@ -1,0 +1,2 @@
+Implemented Docker with PHP, NGINX, MARIADB and Composer for better local development
+Learning Time Block 13 - 14h
