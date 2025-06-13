@@ -1,0 +1,2 @@
+Prevented SQL injection, adding data into the database, htmlspecialchars to convert data to HTML
+Learning time block 10:30 - 11:00
