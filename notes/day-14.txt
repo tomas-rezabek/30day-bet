@@ -1,0 +1,1 @@
+Learning time block 19 - 19:45, refactoring structure, naming conventions and autoloading of Classes with spl_autoload_register
