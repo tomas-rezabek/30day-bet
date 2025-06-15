@@ -1,0 +1,2 @@
+Implemented Core folder with Namespaces for Database and other Classe such as Response and Validator
+Learning Time Block 19:30 - 20
