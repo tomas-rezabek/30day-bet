@@ -1,0 +1,2 @@
+Learnin i3 windows manager running on Arch Linux and POP OS, managing custom i3blocks to get stock prices via free online APIs and BTC price for the last 24 hours with 10 minute interval, also showing icons and colors based on the percentage change
+Learning time block was around 21 - 22pm, i had also 5km run with avg. pace of 5m and 30s per km
