@@ -1,0 +1,3 @@
+Created first service container via App class, this will allow to call static class App to bind and resolve Classes
+Actually service container is created via the Container class and App class allows us to retrieve the services created via the container
+Learning Time block 17h - 18h
