@@ -1,0 +1,2 @@
+Implemented updating function for the notes in the app
+Learning time block 22 - 22:30
