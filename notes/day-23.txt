@@ -1,0 +1,3 @@
+PHP Sessions 101
+Session need to be started, then you can store details in there which will be then available through the entire APP, its saved as a cookie in the browser and as a file on the server, usually in the temp directory
+Learning time block 22:30 - 23:00
