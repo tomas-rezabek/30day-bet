@@ -1,0 +1,2 @@
+Implemented simple registration form with database input
+Learning time 14h - 15h
