@@ -1,0 +1,2 @@
+Extracing a Form Validation object
+Learning time block 17:15 - 17:30
