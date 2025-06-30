@@ -1,0 +1,2 @@
+Extracted an Authenticator class, added redirect function and updated errors handling in the LoginFrom class linked with Authenticator
+Learning time block 21 - 21:40
